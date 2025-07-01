@@ -61,5 +61,7 @@ button{
     height: 50px;
     margin: 15px;
     font-size: 1em;
+    align-self: center;
+    justify-self: center;
   }
 }
