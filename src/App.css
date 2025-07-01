@@ -36,3 +36,30 @@ button{
   margin: 30px;
   font-size: 1em;
 }
+
+@media (max-width: 768px) {
+  .container {
+    width: 90vw;
+    height: auto;
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 30px;
+  }
+
+  h1 {
+    font-size: 2.5em;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 1.5em;
+    text-align: center;
+  }
+
+  button {
+    width: 60vw;
+    height: 50px;
+    margin: 15px;
+    font-size: 1em;
+  }
+}
