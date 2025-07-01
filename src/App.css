@@ -59,9 +59,9 @@ button{
   button {
     width: 60vw;
     height: 50px;
-    margin: 15px;
+    margin: 15px auto;
     font-size: 1em;
+    display: block;
     align-self: center;
-    justify-self: center;
   }
 }
